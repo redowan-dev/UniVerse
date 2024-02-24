@@ -1,6 +1,5 @@
 import React from "react";
 import CGPACalculator from "./Cgpa";
-import cgpaPoint from "../../assets/Img/cgpaList.png";
 
 import line from "../../assets/Img/line.png";
 import LatestBlogsSlider from "../Home/HomeComponent/LatestBlogsSlider/LatestBlogsSlider";
